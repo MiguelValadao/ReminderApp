@@ -1,0 +1,5 @@
+dist/
+build/
+src/
+reminder.spec
+ReminderApp.spec
